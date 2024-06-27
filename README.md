@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malak</h1>
 <h3 align="center">A passionate computer engineering student @ASU</h3>
 
-- 🔭 I’m currently working on **Building ML models with my teammates**
+- 🔭 I’m currently working on **various side projects to enhance my knowledge**
 
 - 🌱 I’m currently learning **ML, Networks and Distributed, Web Development**
 
